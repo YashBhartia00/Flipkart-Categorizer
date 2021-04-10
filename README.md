@@ -24,10 +24,9 @@ Final Validation F1 Score: 74
 
 Confusion Matrix:
 
-[](.\confusion matrix.png)
+[](.\confusion_matrix.png)
 
 ## Improvements
 - Using a data augmentation method to fix class imbalance
     - using translation
     - using hypernyms and hyponymns and synonyms
-- 
