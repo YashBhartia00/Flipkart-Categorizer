@@ -20,12 +20,14 @@
 3. finally used description with name, brand, and product specification
 
 ## Scores
-Final Validation F1 Score: 73
+Final Validation F1 Score: 74
 
 Confusion Matrix:
+
+[](.\confusion matrix.png)
 
 ## Improvements
 - Using a data augmentation method to fix class imbalance
     - using translation
-    - using hypernyms and hyponymsn and synonyms
+    - using hypernyms and hyponymns and synonyms
 - 
